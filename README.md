@@ -1,10 +1,3 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/unigine)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/unigine?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/unigine?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FAo8xeq4NKw?style=social)](https://youtu.be/FAo8xeq4NKw)
 
   <br />
   <br />
