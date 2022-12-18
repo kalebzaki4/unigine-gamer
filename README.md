@@ -1,47 +1,38 @@
-
+<br />
   <br />
-  <br />
 
-  <h2 align="center">Unigine - eSports Gaming Website</h2>
+  <h2 align="center">Unigine - Site de jogos eSports</h2>
 
-  Unigine is a fully responsive esports gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Unigine é um site de jogos de e-sports totalmente responsivo, <br />Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/unigine/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/unigine/"><strong>➥ Demonstração ao vivo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Capturas de tela de demonstração
 
 ![Unigine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Pré-requisitos
 
-Before you begin, ensure you have met the following requirements:
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
 
-### Run Locally
+### Executar localmente
 
-To run **Unigine** locally, run this command on your git bash:
+Para executar o **Unigine** localmente, execute este comando no seu git bash:
 
-Linux and macOS:
+Linux e MacOS:
 
 ```bash
 sudo git clone https://github.com/codewithsadee/unigine.git
 ```
 
-Windows:
+Janelas:
 
 ```bash
 git clone https://github.com/codewithsadee/unigine.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
