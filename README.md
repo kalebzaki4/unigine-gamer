@@ -34,5 +34,3 @@ Se você tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em c
 Esperamos que você aproveite a experiência do Unigine Gamer!
 
 Divirta-se jogando!
-
-![Unigine Gamer Logo](logo.png)
